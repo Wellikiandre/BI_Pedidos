@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_K1OJgCXrEeyHaIq87NEvvw" name="ORIGEM_BDDOP" id="_OM1QcCXpEeyHaIq87NEvvw" label="ORIGEM_BDDOP" dataPackage="_nSpfgCYDEeyOQ_UXXL4VqA" DatabaseType="Microsoft SQL Server" DriverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" URL="jdbc:sqlserver://sqlpw90db06:1446;DatabaseName=BDDOP;integratedSecurity=true" dbVersionString="MSSQL_PROP" Port="1446" Username="" Password="" ServerName="sqlpw90db06" DatasourceName="" FileFieldName="" SID="BDDOP" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="integratedSecurity=true" StandardSQL="true" SQLMode="false" UiSchema="dbo">
+    <taggedValue xmi:id="_K1PXoCXrEeyHaIq87NEvvw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_K2KksCXrEeyHaIq87NEvvw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_K2THkCXrEeyHaIq87NEvvw" tag="Status" value=""/>
+    <taggedValue xmi:id="_K2THkSXrEeyHaIq87NEvvw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_K2THkiXrEeyHaIq87NEvvw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_K2THkyXrEeyHaIq87NEvvw" tag="Description" value=""/>
+    <taggedValue xmi:id="_K2THlCXrEeyHaIq87NEvvw" tag="Author" value=""/>
+    <taggedValue xmi:id="_K2THlSXrEeyHaIq87NEvvw" tag="otherParameter"/>
+    <taggedValue xmi:id="_HRu7ACXzEey6CuWPoL7Xgw" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_HRu7ASXzEey6CuWPoL7Xgw" tag="DB ProductVersion" value="11.00.7507"/>
+    <taggedValue xmi:id="_HRu7AiXzEey6CuWPoL7Xgw" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_K1PXoSXrEeyHaIq87NEvvw" key="CONN_PARA_KEY_USERNAME" value=""/>
+    <parameters xmi:id="_NmCAECXyEeyvB-gJ0-31IA" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_nSpfgCYDEeyOQ_UXXL4VqA" name="BDDOP" dataManager="_K1OJgCXrEeyHaIq87NEvvw">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_nSpfgSYDEeyOQ_UXXL4VqA" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
