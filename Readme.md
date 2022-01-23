@@ -13,6 +13,6 @@ https://bi-pedido-ftth.vercel.app/
 </p>
 
 <div align="center">
-  <img src="https://ibb.co/Qm10GLh" alt="demo" height="500">
+  <img src="https://i.ibb.co/5cfZVmC/77.png" alt="demo" height="500">
 </div>
 <hr />
