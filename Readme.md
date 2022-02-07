@@ -6,7 +6,7 @@ https://bi-pedido-ftth.vercel.app/
 
 ### Tecnologias utilizadas.
 - [x] SQL, M, Dax , JAVA e Python
-- [x] SQL SERVER , POWER QUERY e TALEND
+- [x] SQL SERVER , POWER QUERY , TALEND e POWERBI
 
 <p align="center">Analise profunda diária da caixa de pedidos abertos</p>
 <p>Problemas resolvidos com a analise : Pedido por Quantidade de tramitação? ; Qual posto ofensor ? ; Qual posto ofensor do pedido ?; Taxa de sucessividade de responsabilidade e tramitação ? Responsável ? Histórico de aging ? SLA Posto ? Vida do pedido e seu histórico? entre outros..
