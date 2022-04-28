@@ -4,7 +4,7 @@ https://bi-pedido-ftth.vercel.app/
 <h6> ☑ Senha para acessar o link acima => "pedidos2022"</h6>
 </h1>
 
-### Tecnologias utilizadas.
+#### Tecnologias utilizadas.
 - [x] SQL, M, Dax , JAVA e Python
 - [x] SQL SERVER , POWER QUERY , TALEND e POWERBI
 
